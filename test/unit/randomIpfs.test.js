@@ -1,4 +1,4 @@
-// We are going to skimp a bit on these tests...
+// NOTE: NOT FINISHED!
 
 const { assert, expect } = require("chai")
 const { network, deployments, ethers } = require("hardhat")
